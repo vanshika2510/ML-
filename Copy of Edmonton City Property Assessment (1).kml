@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Copy of Edmonton City Property Assessment </name>
+    <description>Imported from Google Sheets. Last updated 2023</description>
+    <NetworkLink>
+      <name>Copy of Edmonton City Property Assessment </name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1I4ctc8xxUrNL4lIuJWudf4BVLaOfwfQ]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
